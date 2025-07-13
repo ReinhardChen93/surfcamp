@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import "../sass/main.scss";
+import "../sass/main";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
