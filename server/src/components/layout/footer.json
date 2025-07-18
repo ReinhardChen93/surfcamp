@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_layout_footers",
+  "info": {
+    "displayName": "Footer"
+  },
+  "options": {},
+  "attributes": {
+    "logo": {
+      "type": "component",
+      "component": "elements.logo",
+      "repeatable": false
+    },
+    "navigation": {
+      "type": "component",
+      "component": "elements.link",
+      "repeatable": true
+    },
+    "policies": {
+      "type": "component",
+      "component": "elements.link",
+      "repeatable": true
+    },
+    "copy": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

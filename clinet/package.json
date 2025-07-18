@@ -9,10 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@types/qs": "^6.14.0",
     "next": "15.3.5",
+    "qs": "^6.14.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "sass": "^1.89.2"
+    "react-markdown": "^10.1.0",
+    "sass": "^1.89.2",
+    "use-debounce": "^10.0.5",
+    "zod": "^4.0.5"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
